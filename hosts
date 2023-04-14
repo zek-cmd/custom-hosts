@@ -1,6 +1,6 @@
 #insert your blocklist here
 
-#Web Games
+# Web Games
 
 0.0.0.0 friv.com
 0.0.0.0 y8.com
@@ -25,17 +25,21 @@
 0.0.0.0 slither.io
 0.0.0.0 flashgames247.com
 
-
-
-#Games
+# Games
 
 0.0.0.0 roblox.com
 0.0.0.0 minecraft.net
 
-#Porn
+# Porn
 
 0.0.0.0 tinder.com
 0.0.0.0 pinayflix.me
 0.0.0.0 pinayflixtv.com
 0.0.0.0 rapbeh.net
 0.0.0.0 bangpinay.com
+
+# Torrent Sites
+0.0.0.0 thepiratebay.org
+0.0.0.0 kickasstorrents.to
+0.0.0.0 eztv.re
+
