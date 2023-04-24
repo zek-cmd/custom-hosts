@@ -42,6 +42,17 @@
 0.0.0.0 ppsspp.org
 0.0.0.0 retroarch.com
 
+#Browsers
+0.0.0.0 opera.com
+0.0.0.0 mozilla.org
+0.0.0.0 vivaldi.com
+0.0.0.0 chromium.org
+0.0.0.0 brave.com
+0.0.0.0 maxthon.com
+
+#VPN
+
+
 # Games
 
 0.0.0.0 roblox.com
