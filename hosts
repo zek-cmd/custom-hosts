@@ -42,7 +42,7 @@
 0.0.0.0 ppsspp.org
 0.0.0.0 retroarch.com
 
-#Browsers
+# Browsers
 0.0.0.0 opera.com
 0.0.0.0 mozilla.org
 0.0.0.0 vivaldi.com
@@ -50,8 +50,20 @@
 0.0.0.0 brave.com
 0.0.0.0 maxthon.com
 
-#VPN
+# VPN
+0.0.0.0 urban-vpn.com
+0.0.0.0 expressvpn.com
+0.0.0.0 ipvanish.com
+0.0.0.0 nordvpn.com
+0.0.0.0 protonvpn.com
+0.0.0.0 windscribe.com
 
+# Antivirus
+
+0.0.0.0 avast.com
+0.0.0.0 norton.com
+0.0.0.0 us.norton.com
+0.0.0.0 mcafee.com
 
 # Games
 
