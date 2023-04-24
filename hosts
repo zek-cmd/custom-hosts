@@ -105,6 +105,19 @@
 0.0.0.0 bitdefender.com
 0.0.0.0 kaspersky.com
 
+# Streaming
+
+0.0.0.0 crunchyroll.com
+0.0.0.0 9animetv.to
+0.0.0.0 funimation.com
+0.0.0.0 gogoanime.cl
+0.0.0.0 netflix.com
+0.0.0.0 disneyplus.com
+0.0.0.0 hulu.com
+0.0.0.0 animedao.to
+0.0.0.0 kissanime.ru
+0.0.0.0 kissanime.com.ru
+0.0.0.0 contv.com
 
 # Emulators
 
