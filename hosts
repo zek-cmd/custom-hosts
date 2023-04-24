@@ -43,6 +43,7 @@
 0.0.0.0 retroarch.com
 
 # Browsers
+
 0.0.0.0 opera.com
 0.0.0.0 mozilla.org
 0.0.0.0 vivaldi.com
@@ -52,6 +53,7 @@
 0.0.0.0 torproject.org
 
 # VPN
+
 0.0.0.0 urban-vpn.com
 0.0.0.0 expressvpn.com
 0.0.0.0 ipvanish.com
@@ -66,6 +68,15 @@
 0.0.0.0 us.norton.com
 0.0.0.0 mcafee.com
 0.0.0.0 bitdefender.com
+
+# Emulators
+
+0.0.0.0 bluestacks.com
+0.0.0.0 bignox.com
+0.0.0.0 gameloop.com
+0.0.0.0 ldplayer.net
+0.0.0.0 memuplay.com
+
 
 # Games
 
@@ -85,6 +96,8 @@
 0.0.0.0 gameranger.com
 0.0.0.0 rankedgaming.com
 0.0.0.0 dota2.com
+0.0.0.0 zepetto.com
+0.0.0.0 pointblank.zepetto.com
 
 # Porn
 
