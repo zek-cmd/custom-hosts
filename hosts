@@ -68,14 +68,11 @@
 0.0.0.0 eyezmaze.com
 0.0.0.0 inkagames.com
 0.0.0.0 nekogames.jp
-
 0.0.0.0 flashgamearchive.com
 0.0.0.0 freegames.org
 0.0.0.0 pog.com
 0.0.0.0 frivclassic.org
 0.0.0.0 andkon.com
-0.0.0.0 ppsspp.org
-0.0.0.0 retroarch.com
 
 # Browsers
 
@@ -113,6 +110,14 @@
 0.0.0.0 gameloop.com
 0.0.0.0 ldplayer.net
 0.0.0.0 memuplay.com
+0.0.0.0 ppsspp.org
+0.0.0.0 retroarch.com
+0.0.0.0 epsxe.com
+0.0.0.0 mupen64plus.org
+0.0.0.0 pj64-emu.com
+0.0.0.0 pcsx2.net
+0.0.0.0 xenia.jp
+0.0.0.0 openemu.org
 
 
 # Games
