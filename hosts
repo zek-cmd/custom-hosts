@@ -375,12 +375,11 @@
 0.0.0.0 frisk.chat
 0.0.0.0 ifans.com
 
-
 # Torrent Sites
 
 0.0.0.0 thepiratebay.org
 
-# Lab
+# For Lab Block
 
 0.0.0.0 youtube.com
 0.0.0.0 dailymotion.com
@@ -391,5 +390,8 @@
 0.0.0.0 tv.youtube.com
 0.0.0.0 peacocktv.com
 0.0.0.0 hbomax.com
-
-
+0.0.0.0 reddit.com
+0.0.0.0 twitter.com
+0.0.0.0 tiktok.com
+0.0.0.0 instagram.com
+0.0.0.0 snapchat.com
