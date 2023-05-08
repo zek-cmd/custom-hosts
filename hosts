@@ -379,3 +379,9 @@
 # Torrent Sites
 
 0.0.0.0 thepiratebay.org
+
+# Lab
+
+0.0.0.0 youtube.com
+0.0.0.0 dailymotion.com
+0.0.0.0 bilibili.tv
