@@ -383,6 +383,16 @@
 0.0.0.0 frisk.chat
 0.0.0.0 ifans.com
 
+# Music Streaming
+
+0.0.0.0 spotify.com
+0.0.0.0 music.amazon.com
+0.0.0.0 music.apple.com
+0.0.0.0 pandora.com
+0.0.0.0 soundcloud.com
+0.0.0.0 tidal.com
+0.0.0.0 deezer.com
+
 # Torrent Sites
 
 0.0.0.0 thepiratebay.org
