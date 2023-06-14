@@ -344,7 +344,7 @@
 0.0.0.0 garena.ph
 0.0.0.0 garena.com
 0.0.0.0 ea.com
-0.0.0.0 blizzard.com
+# 0.0.0.0 blizzard.com
 0.0.0.0 playvalorant.com
 0.0.0.0 leagueoflegends.com
 0.0.0.0 gameranger.com
