@@ -412,9 +412,7 @@
 
 # Torrent Sites
 
-# 0.0.0.0 thepiratebay.org
-
-# For Lab Block
+# ComLab
 
 0.0.0.0 dailymotion.com
 0.0.0.0 bilibili.tv
@@ -431,5 +429,4 @@
 0.0.0.0 twitch.tv
 0.0.0.0 vimeo.com
 0.0.0.0 msn.com
-
-
+0.0.0.0 kick.com
