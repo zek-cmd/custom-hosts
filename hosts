@@ -344,7 +344,7 @@
 0.0.0.0 garena.ph
 0.0.0.0 garena.com
 0.0.0.0 ea.com
-# 0.0.0.0 blizzard.com
+0.0.0.0 blizzard.com
 0.0.0.0 playvalorant.com
 0.0.0.0 leagueoflegends.com
 # 0.0.0.0 gameranger.com
@@ -352,8 +352,8 @@
 0.0.0.0 dota2.com
 0.0.0.0 zepetto.com
 0.0.0.0 pointblank.zepetto.com
-# 0.0.0.0 gameclub.ph
-# 0.0.0.0 cf.gameclub.ph
+0.0.0.0 gameclub.ph
+0.0.0.0 cf.gameclub.ph
 0.0.0.0 gameclub.io
 0.0.0.0 nosteam.ro
 0.0.0.0 nosteamgames.ro
