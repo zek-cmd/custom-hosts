@@ -45,3 +45,8 @@
 ||addons.mozilla.org^$important
 ||chromewebstore.google.com^$important
 ||addons.opera.com^$important
+||opera.com/gx^$important
+
+#Whitelist
+
+@@||ytimg.com^
