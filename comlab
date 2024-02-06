@@ -1,3 +1,52 @@
 #Flash Games
 
 ||flashmuseum.org^
+/flashpoint.*/
+/bluemaxima.*/
+/ruffle.*/
+
+# Most Used AI tools
+
+||openai.com^$important
+||bard.google.com^$important
+
+#Anime and Manga / Manhua 
+
+/anime.*/
+/manga.*/
+/aniwatchtv.*/
+/aniwatch.*/
+/aniwave.*/
+/manhua.*/
+
+#Porn
+
+/porn.*/
+/kantot.*/
+/pinayflix.*/
+/rapbeh.*/
+/xxx.*/
+/xnxx.*/
+/iyot.*/
+/pinayot.*/
+/spankbang.*/
+
+#VPN and Proxy
+
+/vpn.*/
+/proxy.*/
+/tunnelbear.*/
+/windscribe.*/
+/surfshark.*/
+/hidemyass.*/
+
+#Browser Addons/Extensions, Settings
+
+||addons.mozilla.org^$important
+||chromewebstore.google.com^$important
+||addons.opera.com^$important
+||opera.com/gx^$important
+
+#Whitelist
+
+@@||ytimg.com^
