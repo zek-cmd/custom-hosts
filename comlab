@@ -5,11 +5,15 @@
 /bluemaxima.*/
 /ruffle.*/
 
-# Most Used AI tools
+#AI tools
 
 ||openai.com^$important
 ||bard.google.com^$important
 ||gemini.google.com^$important
+||useadrenaline.com^$important
+||text2sql.ai^$important
+||cogram.com^$important
+||tabnine.com^$important
 
 #Anime and Manga / Manhua 
 
