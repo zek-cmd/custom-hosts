@@ -9,6 +9,7 @@
 
 ||openai.com^$important
 ||bard.google.com^$important
+||gemini.google.com^$important
 
 #Anime and Manga / Manhua 
 
@@ -46,6 +47,9 @@
 ||chromewebstore.google.com^$important
 ||addons.opera.com^$important
 ||opera.com/gx^$important
+
+#E-Commerce
+||amazon.com^
 
 #Whitelist
 
