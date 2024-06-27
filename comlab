@@ -16,6 +16,16 @@
 ||tabnine.com^$important
 
 
+#Anime and Manga / Manhua 
+
+/anime.*/
+/manga.*/
+/aniwatchtv.*/
+/aniwatch.*/
+/aniwave.*/
+/manhua.*/
+
+
 #Browser Addons/Extensions, Settings
 
 ||addons.mozilla.org^$important
